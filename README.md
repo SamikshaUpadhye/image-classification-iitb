@@ -1,2 +1,2 @@
 # image-classification-from scratch
-#In this project we work realtime Dasiee dataset.
+#This project involves the extraction of video frames from the DAiSEE dataset based on the dominant emotion associated with each video clip. The DAiSEE dataset contains videos labeled with distinct emotions: Boredom, Engagement, Confusion, and Frustration. The goal is to systematically extract frames from these videos, categorizing them into directories according to the emotion that is most prominent in each clip.
